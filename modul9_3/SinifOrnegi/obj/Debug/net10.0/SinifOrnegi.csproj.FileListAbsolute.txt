@@ -1,0 +1,14 @@
+C:\SinifOrnegi\SinifOrnegi\bin\Debug\net10.0\SinifOrnegi.exe
+C:\SinifOrnegi\SinifOrnegi\bin\Debug\net10.0\SinifOrnegi.deps.json
+C:\SinifOrnegi\SinifOrnegi\bin\Debug\net10.0\SinifOrnegi.runtimeconfig.json
+C:\SinifOrnegi\SinifOrnegi\bin\Debug\net10.0\SinifOrnegi.dll
+C:\SinifOrnegi\SinifOrnegi\bin\Debug\net10.0\SinifOrnegi.pdb
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.AssemblyInfoInputs.cache
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.AssemblyInfo.cs
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.csproj.CoreCompileInputs.cache
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.dll
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\refint\SinifOrnegi.dll
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.pdb
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\SinifOrnegi.genruntimeconfig.cache
+C:\SinifOrnegi\SinifOrnegi\obj\Debug\net10.0\ref\SinifOrnegi.dll

@@ -1,0 +1,14 @@
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\bin\Debug\net10.0\FaktoriyelHataYonetimi.exe
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\bin\Debug\net10.0\FaktoriyelHataYonetimi.deps.json
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\bin\Debug\net10.0\FaktoriyelHataYonetimi.runtimeconfig.json
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\bin\Debug\net10.0\FaktoriyelHataYonetimi.dll
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\bin\Debug\net10.0\FaktoriyelHataYonetimi.pdb
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.AssemblyInfoInputs.cache
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.AssemblyInfo.cs
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.csproj.CoreCompileInputs.cache
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.dll
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\refint\FaktoriyelHataYonetimi.dll
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.pdb
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\FaktoriyelHataYonetimi.genruntimeconfig.cache
+C:\FaktoriyelHataYonetimi\FaktoriyelHataYonetimi\obj\Debug\net10.0\ref\FaktoriyelHataYonetimi.dll

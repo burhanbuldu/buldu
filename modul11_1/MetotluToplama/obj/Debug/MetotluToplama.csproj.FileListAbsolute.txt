@@ -1,0 +1,14 @@
+C:\MetotluToplama\MetotluToplama\bin\Debug\MetotluToplama.exe.config
+C:\MetotluToplama\MetotluToplama\bin\Debug\MetotluToplama.exe
+C:\MetotluToplama\MetotluToplama\bin\Debug\MetotluToplama.pdb
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.csproj.AssemblyReference.cache
+C:\MetotluToplama\MetotluToplama\obj\Debug\MainWindow.baml
+C:\MetotluToplama\MetotluToplama\obj\Debug\MainWindow.g.cs
+C:\MetotluToplama\MetotluToplama\obj\Debug\App.g.cs
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama_MarkupCompile.cache
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.g.resources
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.Properties.Resources.resources
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.csproj.GenerateResource.cache
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.csproj.CoreCompileInputs.cache
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.exe
+C:\MetotluToplama\MetotluToplama\obj\Debug\MetotluToplama.pdb

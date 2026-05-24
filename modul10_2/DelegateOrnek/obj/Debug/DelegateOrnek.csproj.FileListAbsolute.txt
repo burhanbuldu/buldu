@@ -1,0 +1,7 @@
+C:\DelegateOrnek\DelegateOrnek\bin\Debug\DelegateOrnek.exe.config
+C:\DelegateOrnek\DelegateOrnek\bin\Debug\DelegateOrnek.exe
+C:\DelegateOrnek\DelegateOrnek\bin\Debug\DelegateOrnek.pdb
+C:\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.csproj.AssemblyReference.cache
+C:\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.csproj.CoreCompileInputs.cache
+C:\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.exe
+C:\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.pdb
