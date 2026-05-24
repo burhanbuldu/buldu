@@ -1,0 +1,7 @@
+C:\NorthwindLINQ\NorthwindLINQ\bin\Debug\NorthwindLINQ.exe.config
+C:\NorthwindLINQ\NorthwindLINQ\bin\Debug\NorthwindLINQ.exe
+C:\NorthwindLINQ\NorthwindLINQ\bin\Debug\NorthwindLINQ.pdb
+C:\NorthwindLINQ\NorthwindLINQ\obj\Debug\NorthwindLINQ.csproj.AssemblyReference.cache
+C:\NorthwindLINQ\NorthwindLINQ\obj\Debug\NorthwindLINQ.csproj.CoreCompileInputs.cache
+C:\NorthwindLINQ\NorthwindLINQ\obj\Debug\NorthwindLINQ.exe
+C:\NorthwindLINQ\NorthwindLINQ\obj\Debug\NorthwindLINQ.pdb

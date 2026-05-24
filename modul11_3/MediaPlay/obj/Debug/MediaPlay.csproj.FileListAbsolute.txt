@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\bin\Debug\MediaPlay.exe.config
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\bin\Debug\MediaPlay.exe
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\bin\Debug\MediaPlay.pdb
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MainWindow.baml
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MainWindow.g.cs
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\App.g.cs
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay_MarkupCompile.cache
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.g.resources
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.Properties.Resources.resources
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.exe
+C:\Users\casper\source\repos\MediaPlay\MediaPlay\obj\Debug\MediaPlay.pdb

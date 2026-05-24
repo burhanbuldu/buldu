@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\bin\Debug\UyeKayit.exe.config
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\bin\Debug\UyeKayit.exe
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\bin\Debug\UyeKayit.pdb
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\MainWindow.baml
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\MainWindow.g.cs
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\App.g.cs
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit_MarkupCompile.cache
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.g.resources
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.Properties.Resources.resources
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.exe
+C:\Users\casper\source\repos\UyeKayit\UyeKayit\obj\Debug\UyeKayit.pdb
