@@ -1,0 +1,7 @@
+C:\EventUygulama\EventUygulama\bin\Debug\EventUygulama.exe.config
+C:\EventUygulama\EventUygulama\bin\Debug\EventUygulama.exe
+C:\EventUygulama\EventUygulama\bin\Debug\EventUygulama.pdb
+C:\EventUygulama\EventUygulama\obj\Debug\EventUygulama.csproj.AssemblyReference.cache
+C:\EventUygulama\EventUygulama\obj\Debug\EventUygulama.csproj.CoreCompileInputs.cache
+C:\EventUygulama\EventUygulama\obj\Debug\EventUygulama.exe
+C:\EventUygulama\EventUygulama\obj\Debug\EventUygulama.pdb

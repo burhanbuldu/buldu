@@ -1,0 +1,7 @@
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\bin\Debug\IlkUygulama.exe.config
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\bin\Debug\IlkUygulama.exe
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\bin\Debug\IlkUygulama.pdb
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.exe
+C:\Users\casper\source\repos\IlkUygulama\IlkUygulama\obj\Debug\IlkUygulama.pdb

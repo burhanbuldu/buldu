@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\App.g.cs
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos_MarkupCompile.cache
+C:\Users\casper\source\repos\MousePos\MousePos\bin\Debug\MousePos.exe.config
+C:\Users\casper\source\repos\MousePos\MousePos\bin\Debug\MousePos.exe
+C:\Users\casper\source\repos\MousePos\MousePos\bin\Debug\MousePos.pdb
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MainWindow.baml
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MainWindow.g.cs
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.g.resources
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.Properties.Resources.resources
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.exe
+C:\Users\casper\source\repos\MousePos\MousePos\obj\Debug\MousePos.pdb

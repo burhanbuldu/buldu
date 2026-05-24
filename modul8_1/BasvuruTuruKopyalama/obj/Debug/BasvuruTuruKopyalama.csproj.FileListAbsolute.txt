@@ -1,0 +1,7 @@
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\bin\Debug\BasvuruTuruKopyalama.exe.config
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\bin\Debug\BasvuruTuruKopyalama.exe
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\bin\Debug\BasvuruTuruKopyalama.pdb
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\obj\Debug\BasvuruTuruKopyalama.csproj.AssemblyReference.cache
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\obj\Debug\BasvuruTuruKopyalama.csproj.CoreCompileInputs.cache
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\obj\Debug\BasvuruTuruKopyalama.exe
+C:\BasvuruTuruKopyalama\BasvuruTuruKopyalama\obj\Debug\BasvuruTuruKopyalama.pdb

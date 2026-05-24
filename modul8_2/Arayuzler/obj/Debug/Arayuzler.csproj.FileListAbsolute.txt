@@ -1,0 +1,7 @@
+C:\Arayuzler\Arayuzler\bin\Debug\Arayuzler.exe.config
+C:\Arayuzler\Arayuzler\bin\Debug\Arayuzler.exe
+C:\Arayuzler\Arayuzler\bin\Debug\Arayuzler.pdb
+C:\Arayuzler\Arayuzler\obj\Debug\Arayuzler.csproj.AssemblyReference.cache
+C:\Arayuzler\Arayuzler\obj\Debug\Arayuzler.csproj.CoreCompileInputs.cache
+C:\Arayuzler\Arayuzler\obj\Debug\Arayuzler.exe
+C:\Arayuzler\Arayuzler\obj\Debug\Arayuzler.pdb
