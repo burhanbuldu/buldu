@@ -1,0 +1,27 @@
+﻿@page
+@model OgrenciSistemi.Pages.OgrenciListesiModel
+
+<h2>Öğrenci Listesi</h2>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Okul No</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Alan</th>
+        <th>İşlem</th>
+    </tr>
+
+    @foreach (var item in Model.Ogrenciler)
+    {
+        <tr>
+            <td>@item.OkulNo</td>
+            <td>@item.Ad</td>
+            <td>@item.Soyad</td>
+            <td>@item.Alan</td>
+            <td>
+                <a href="/OgrenciDetay?id=@item.OkulNo">Detay</a>
+            </td>
+        </tr>
+    }
+</table>

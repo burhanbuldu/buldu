@@ -1,0 +1,20 @@
+﻿@page
+@model OgrenciSistemi.Pages.OgrenciDetayModel
+
+<h2>Öğrenci Detay</h2>
+
+@if (Model.Ogrenci != null)
+{
+    <p>Okul No: @Model.Ogrenci.OkulNo</p>
+    <p>Ad: @Model.Ogrenci.Ad</p>
+    <p>Soyad: @Model.Ogrenci.Soyad</p>
+    <p>Alan: @Model.Ogrenci.Alan</p>
+}
+else
+{
+    <p>Kayıt bulunamadı</p>
+}
+
+<br />
+
+<a href="/OgrenciListesi">← Listeye Dön</a>
