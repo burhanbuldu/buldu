@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\bin\Debug\net10.0\TarihUygulamasi.exe
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\bin\Debug\net10.0\TarihUygulamasi.deps.json
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\bin\Debug\net10.0\TarihUygulamasi.runtimeconfig.json
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\bin\Debug\net10.0\TarihUygulamasi.dll
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\bin\Debug\net10.0\TarihUygulamasi.pdb
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.AssemblyInfo.cs
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.dll
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\refint\TarihUygulamasi.dll
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.pdb
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\TarihUygulamasi.genruntimeconfig.cache
+C:\Users\casper\source\repos\TarihUygulamasi\TarihUygulamasi\obj\Debug\net10.0\ref\TarihUygulamasi.dll

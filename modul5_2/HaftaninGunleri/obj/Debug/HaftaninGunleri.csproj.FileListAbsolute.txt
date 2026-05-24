@@ -1,0 +1,10 @@
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\bin\Debug\HaftaninGunleri.exe.config
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\bin\Debug\HaftaninGunleri.exe
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\bin\Debug\HaftaninGunleri.pdb
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.Form1.resources
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.Properties.Resources.resources
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.exe
+C:\Users\casper\source\repos\HaftaninGunleri\HaftaninGunleri\obj\Debug\HaftaninGunleri.pdb

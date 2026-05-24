@@ -1,0 +1,14 @@
+C:\ParamsOrnek\ParamsOrnek\bin\Debug\net10.0\ParamsOrnek.exe
+C:\ParamsOrnek\ParamsOrnek\bin\Debug\net10.0\ParamsOrnek.deps.json
+C:\ParamsOrnek\ParamsOrnek\bin\Debug\net10.0\ParamsOrnek.runtimeconfig.json
+C:\ParamsOrnek\ParamsOrnek\bin\Debug\net10.0\ParamsOrnek.dll
+C:\ParamsOrnek\ParamsOrnek\bin\Debug\net10.0\ParamsOrnek.pdb
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.AssemblyInfoInputs.cache
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.AssemblyInfo.cs
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.csproj.CoreCompileInputs.cache
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.dll
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\refint\ParamsOrnek.dll
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.pdb
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ParamsOrnek.genruntimeconfig.cache
+C:\ParamsOrnek\ParamsOrnek\obj\Debug\net10.0\ref\ParamsOrnek.dll

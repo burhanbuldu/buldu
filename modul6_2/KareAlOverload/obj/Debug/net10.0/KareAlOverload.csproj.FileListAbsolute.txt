@@ -1,0 +1,14 @@
+C:\KareAlOverload\KareAlOverload\bin\Debug\net10.0\KareAlOverload.exe
+C:\KareAlOverload\KareAlOverload\bin\Debug\net10.0\KareAlOverload.deps.json
+C:\KareAlOverload\KareAlOverload\bin\Debug\net10.0\KareAlOverload.runtimeconfig.json
+C:\KareAlOverload\KareAlOverload\bin\Debug\net10.0\KareAlOverload.dll
+C:\KareAlOverload\KareAlOverload\bin\Debug\net10.0\KareAlOverload.pdb
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.AssemblyInfoInputs.cache
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.AssemblyInfo.cs
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.csproj.CoreCompileInputs.cache
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.dll
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\refint\KareAlOverload.dll
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.pdb
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\KareAlOverload.genruntimeconfig.cache
+C:\KareAlOverload\KareAlOverload\obj\Debug\net10.0\ref\KareAlOverload.dll
