@@ -1,0 +1,10 @@
+C:\HastaneRaporlama\HastaneRaporlama\bin\Debug\HastaneRaporlama.exe.config
+C:\HastaneRaporlama\HastaneRaporlama\bin\Debug\HastaneRaporlama.exe
+C:\HastaneRaporlama\HastaneRaporlama\bin\Debug\HastaneRaporlama.pdb
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.csproj.AssemblyReference.cache
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.Properties.Resources.resources
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.csproj.GenerateResource.cache
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.csproj.CoreCompileInputs.cache
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.exe
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.pdb
+C:\HastaneRaporlama\HastaneRaporlama\obj\Debug\HastaneRaporlama.Form1.resources
