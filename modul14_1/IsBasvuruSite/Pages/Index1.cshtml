@@ -1,0 +1,85 @@
+﻿@page
+@model IsBasvuruSite.Pages.Index1Model
+@{
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+            body {
+                font-family: Arial;
+                background-color: #f2f2f2;
+            }
+
+            form {
+                background: white;
+                padding: 20px;
+                width: 300px;
+                margin: 30px auto;
+                border-radius: 10px;
+            }
+
+            input, select {
+                width: 100%;
+                margin-bottom: 10px;
+                padding: 5px;
+            }
+
+            button {
+                width: 100%;
+                padding: 10px;
+                background: green;
+                color: white;
+                border: none;
+            }
+    </style>
+</head>
+
+<body>
+
+    <h2 style="text-align:center;">İş Başvuru Formu</h2>
+
+    <form method="post">
+
+        Ad:
+        <input type="text" asp-for="Ad" />
+
+        Soyad:
+        <input type="text" asp-for="Soyad" />
+
+        Cinsiyet:
+        <select asp-for="Cinsiyet">
+            <option>Bay</option>
+            <option>Bayan</option>
+        </select>
+
+        Pozisyon:
+        <select asp-for="Pozisyon">
+            <option>Satış</option>
+            <option>Muhasebe</option>
+            <option>Reklam</option>
+            <option>Personel</option>
+        </select>
+
+        Ücret:
+        <input type="number" asp-for="Ucret" />
+
+        <button type="submit">Gönder</button>
+
+    </form>
+
+    @if (Model.Ad != null)
+    {
+        <div style="text-align:center;">
+            <h3>Başvuru Bilgileri</h3>
+            <p>Ad: @Model.Ad</p>
+            <p>Soyad: @Model.Soyad</p>
+            <p>Cinsiyet: @Model.Cinsiyet</p>
+            <p>Pozisyon: @Model.Pozisyon</p>
+            <p>Ücret: @Model.Ucret</p>
+        </div>
+    }
+
+</body>
+</html>
