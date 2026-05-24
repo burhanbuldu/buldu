@@ -1,0 +1,14 @@
+C:\DonguToplama\DonguToplama\bin\Debug\net10.0\DonguToplama.exe
+C:\DonguToplama\DonguToplama\bin\Debug\net10.0\DonguToplama.deps.json
+C:\DonguToplama\DonguToplama\bin\Debug\net10.0\DonguToplama.runtimeconfig.json
+C:\DonguToplama\DonguToplama\bin\Debug\net10.0\DonguToplama.dll
+C:\DonguToplama\DonguToplama\bin\Debug\net10.0\DonguToplama.pdb
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.AssemblyInfoInputs.cache
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.AssemblyInfo.cs
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.csproj.CoreCompileInputs.cache
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.dll
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\refint\DonguToplama.dll
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.pdb
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\DonguToplama.genruntimeconfig.cache
+C:\DonguToplama\DonguToplama\obj\Debug\net10.0\ref\DonguToplama.dll

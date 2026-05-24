@@ -1,0 +1,14 @@
+C:\MantiksalOperatorler\MantiksalOperatorler\bin\Debug\net10.0\MantiksalOperatorler.exe
+C:\MantiksalOperatorler\MantiksalOperatorler\bin\Debug\net10.0\MantiksalOperatorler.deps.json
+C:\MantiksalOperatorler\MantiksalOperatorler\bin\Debug\net10.0\MantiksalOperatorler.runtimeconfig.json
+C:\MantiksalOperatorler\MantiksalOperatorler\bin\Debug\net10.0\MantiksalOperatorler.dll
+C:\MantiksalOperatorler\MantiksalOperatorler\bin\Debug\net10.0\MantiksalOperatorler.pdb
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.AssemblyInfoInputs.cache
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.AssemblyInfo.cs
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.csproj.CoreCompileInputs.cache
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.dll
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\refint\MantiksalOperatorler.dll
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.pdb
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\MantiksalOperatorler.genruntimeconfig.cache
+C:\MantiksalOperatorler\MantiksalOperatorler\obj\Debug\net10.0\ref\MantiksalOperatorler.dll

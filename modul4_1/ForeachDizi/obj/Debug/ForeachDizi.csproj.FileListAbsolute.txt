@@ -1,0 +1,7 @@
+C:\ForeachDizi\ForeachDizi\bin\Debug\ForeachDizi.exe.config
+C:\ForeachDizi\ForeachDizi\bin\Debug\ForeachDizi.exe
+C:\ForeachDizi\ForeachDizi\bin\Debug\ForeachDizi.pdb
+C:\ForeachDizi\ForeachDizi\obj\Debug\ForeachDizi.csproj.AssemblyReference.cache
+C:\ForeachDizi\ForeachDizi\obj\Debug\ForeachDizi.csproj.CoreCompileInputs.cache
+C:\ForeachDizi\ForeachDizi\obj\Debug\ForeachDizi.exe
+C:\ForeachDizi\ForeachDizi\obj\Debug\ForeachDizi.pdb
